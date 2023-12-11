@@ -20,15 +20,12 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 
 ##  Datasets
-
-Most CZSL papers usually conduct experiments on MIT-States and UT-Zappos datasets. However, as CZSL receives more attention, some new datasets are proposed and used in recent papers, such as C-GQA, AO-CLEVr, etc.
-
 ### FFHQ
-Introduced by Isola et al. in  [Discovering States and Transformations in Image Collections](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7298744).
+Introduced by Karras et al. in  [Style-Based Generator Architecture for Generative Adversarial Networks](https://arxiv.org/abs/1812.04948v3).
 
-The MIT-States dataset has 245 object classes, 115 attribute classes and ∼53K images. There is a wide range of objects (e.g., fish, persimmon, room) and attributes (e.g., mossy, deflated, dirty). On average, each object instance is modified by one of the 9 attributes it affords.
+Flickr-Faces-HQ (FFHQ) consists of 70,000 high-quality PNG images at 1024×1024 resolution and contains considerable variation in terms of age, ethnicity and image background. It also has good coverage of accessories such as eyeglasses, sunglasses, hats, etc. The images were crawled from Flickr, thus inheriting all the biases of that website, and automatically aligned and cropped using dlib. Only images under permissive licenses were collected. Various automatic filters were used to prune the set, and finally Amazon Mechanical Turk was used to remove the occasional statues, paintings, or photos of photos.
 
-Source:http://web.mit.edu/phillipi/Public/states_and_transformations/index.html
+Source:http:https://github.com/NVlabs/ffhq-dataset
 
 
 
