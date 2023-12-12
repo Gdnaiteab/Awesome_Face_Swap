@@ -1,4 +1,4 @@
-# Every_Face
+![image](https://github.com/Gdnaiteab/Every_Face/assets/28984786/57e1f570-d1dd-4645-9078-51ed335ce0e0)# Every_Face
 Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 ##  Papers
@@ -51,3 +51,4 @@ The DFDC dataset consists of two versions:
 
 Source: https://ai.meta.com/datasets/dfdc/
 ##  Acknowledgements
+This page is made by [Bohuan Qu](https://github.com/Gdnaiteab),[Yize Cai](https://github.com/OskarJoa), both of whom are students of Dalian University of Technology.
