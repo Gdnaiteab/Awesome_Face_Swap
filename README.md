@@ -11,15 +11,14 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 ##  Projects
 
-### 20xx
 | Title                                                                                      |   Project Address|              Introduction              | 
 |:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|
-| DeepFaceLab | [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | MIT-States & UT-Zappos & C-GQA | 
-| FaceSwap | [FaceSwap](https://github.com/deepfakes/faceswap/tree/master) | MIT-States & UT-Zappos & C-GQA |
-| SwapFace |[SwapFace](https://swapface.org/#/tutorial) | MIT-States & UT-Zappos & C-GQA |
-| Roop | [Roop](https://github.com/s0md3v/roop) | MIT-States & UT-Zappos & C-GQA |
-| FSGAN | [FSGAB](https://github.com/YuvalNirkin/fsgan) | MIT-States & UT-Zappos & C-GQA |
-| HifiFace | [HifiFace](https://github.com/YuvalNirkin/fsgan) | MIT-States & UT-Zappos & C-GQA |
+| DeepFaceLab | [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | DeepFaceLab is an open-source GAN-based face-swapping deepfake system that has gained 42.9k Stars on Github, and it provides an easy-to-use and expandable pipelne, which is the dominant face-swapping framework today.| 
+| FaceSwap | [FaceSwap](https://github.com/deepfakes/faceswap/tree/master) | Faceswap is a GAN-based deepfake open-source tool with 47.3kStar on github. it provides an easy-to-use GUI interface to facilitate operations such as training and face-swapping. |
+| SwapFace |[SwapFace](https://swapface.org/#/tutorial) | SwapFace is a closed-source deepfake tool for Windows that provides an easy-to-use GUI interface to enable users to accomplish one-click face swapping tasks in a foolproof way. |
+| Roop | [Roop](https://github.com/s0md3v/roop) | Roop is a one-click deepfake open source tool with 21.4kStar on github. it enables replacing the face in the original video with just a single image without dataset and training. |
+| FSGAN | [FSGAB](https://github.com/YuvalNirkin/fsgan) | Face Swapping GAN (FSGAN) is a novel Recurrent Neural Network (RNN)-based face reproduction method that can be adapted to pose and expression changes, and can be applied to single images or video sequences. |
+| HifiFace | [HifiFace](https://github.com/YuvalNirkin/fsgan) | HifiFace uses a 3D shape-aware identity extractor to obtain three-bit shape identities. Also, a semantic facial fusion module is introduced to address occlusion and illumination |
 
 
 ##  Datasets
