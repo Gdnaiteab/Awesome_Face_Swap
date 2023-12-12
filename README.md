@@ -14,9 +14,12 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 ### 20xx
 | Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
 |:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
-| Compositional Zero-Shot Learning using Multi-Branch Graph Convolution and Cross-layer Knowledge Sharing | PR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
-| GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-ShotLearning | WACV 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/pdf/2311.05729.pdf) | [CODE](https://github.com/HLR/GIPCOL) |
-
+| DeepFaceLab | [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
+| FaceSwap | [FaceSwap](https://github.com/deepfakes/faceswap/tree/master) | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/pdf/2311.05729.pdf) | [CODE](https://github.com/HLR/GIPCOL) |
+| SwapFace | SwapFace(https://swapface.org/#/tutorial) | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
+| Roop | [Roop](https://github.com/s0md3v/roop) | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
+| FSGAN | [FSGAB](https://github.com/YuvalNirkin/fsgan) | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
+| HifiFace | [HifiFace](https://github.com/YuvalNirkin/fsgan) | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
 
 
 ##  Datasets
