@@ -53,4 +53,4 @@ The DFDC dataset consists of two versions:
 
 Source: https://ai.meta.com/datasets/dfdc/
 ##  Acknowledgements
-This page is made by [Bohuan Qu](https://github.com/Gdnaiteab),[Yize Cai](https://github.com/OskarJoa), both of whom are students of Dalian University of Technology.
+This page is made by [Bohuan Qu](https://github.com/Gdnaiteab),[Yize Cai](https://github.com/OskarJoa),[Xizhe Wu](https://github.com/SeverusNg), both of whom are students of Dalian University of Technology.
