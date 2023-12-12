@@ -1,4 +1,4 @@
-![image](https://github.com/Gdnaiteab/Every_Face/assets/28984786/57e1f570-d1dd-4645-9078-51ed335ce0e0)# Every_Face
+# Every_Face
 Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 ##  Papers
