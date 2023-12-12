@@ -17,7 +17,8 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 | EasyPhoto | [EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) | EasyPhoto is a Webui UI plugin based on stable diffusion for generating AI portraits that can be used to train digital doppelgangers relevant to users.   |
 | FaceSwap | [FaceSwap](https://github.com/deepfakes/faceswap/tree/master) | Faceswap is a GAN-based deepfake open-source tool on github. it provides an easy-to-use GUI interface to facilitate operations such as training and face-swapping. |
 | SwapFace |[SwapFace](https://swapface.org/#/tutorial) | SwapFace is a closed-source deepfake tool for Windows that provides an easy-to-use GUI interface to enable users to accomplish one-click face swapping tasks in a foolproof way. |
-| Inswapper | [_Inswapper](https://github.com/haofanwang/inswapper) | It is the base of Roop, which is a one-click deepfake open source tool on github. it enables replacing the face in the original video with just a single image without dataset and training. |
+| Inswapper | [Inswapper](https://github.com/haofanwang/inswapper) | It is a powerful face swap model that makes this happen based on insightface.  |
+| Roop | [Roop](https://github.com/s0md3v/roop) | It is a one-click deepfake model on github. it enables replacing the face in the original video with just a single image without dataset and training. |
 | Vid2DensePose | [Vid2DensePose](https://github.com/Flode-Labs/vid2densepose) | The Vid2DensePose is a powerful tool designed for applying the DensePose model to videos, generating detailed "Part Index" visualizations for each frame. This tool is exceptionally useful for enhancing animations, particularly when used in conjunction with MagicAnimate for temporally consistent human image animation. |
 
 ##  Datasets
