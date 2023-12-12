@@ -12,14 +12,14 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 ##  Projects
 
 ### 20xx
-| Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
-|:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
-| DeepFaceLab | [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
-| FaceSwap | [FaceSwap](https://github.com/deepfakes/faceswap/tree/master) | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/pdf/2311.05729.pdf) | [CODE](https://github.com/HLR/GIPCOL) |
-| SwapFace | SwapFace(https://swapface.org/#/tutorial) | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
-| Roop | [Roop](https://github.com/s0md3v/roop) | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
-| FSGAN | [FSGAB](https://github.com/YuvalNirkin/fsgan) | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
-| HifiFace | [HifiFace](https://github.com/YuvalNirkin/fsgan) | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
+| Title                                                                                      |   Project Address|              Introduction              | 
+|:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|
+| DeepFaceLab | [DeepFaceLab](https://github.com/iperov/DeepFaceLab) | MIT-States & UT-Zappos & C-GQA | 
+| FaceSwap | [FaceSwap](https://github.com/deepfakes/faceswap/tree/master) | MIT-States & UT-Zappos & C-GQA |
+| SwapFace |[SwapFace](https://swapface.org/#/tutorial) | MIT-States & UT-Zappos & C-GQA |
+| Roop | [Roop](https://github.com/s0md3v/roop) | MIT-States & UT-Zappos & C-GQA |
+| FSGAN | [FSGAB](https://github.com/YuvalNirkin/fsgan) | MIT-States & UT-Zappos & C-GQA |
+| HifiFace | [HifiFace](https://github.com/YuvalNirkin/fsgan) | MIT-States & UT-Zappos & C-GQA |
 
 
 ##  Datasets
