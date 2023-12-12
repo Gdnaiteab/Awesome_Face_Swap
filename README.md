@@ -52,5 +52,11 @@ The DFDC dataset consists of two versions:
 * Full dataset, with 124k videos. Featuring eight facial modification algorithms.
 
 Source: https://ai.meta.com/datasets/dfdc/
+### KDEF & AKDEF
+Introduced by Lundqvist et al. in [[The Karolinska Directed Emotional Faces (KDEF)](https://ki.se/en/cns/resources](https://ki.se/en/cns/resources#heading-2))
+
+The Karolinska Directed Emotional Faces (KDEF) is a set of totally 4900 pictures of human facial expressions. The set of pictures contains 70 individuals displaying 7 different emotional expressions. Each expression is viewed from 5 different angles.
+The Averaged Karolinska Directed Emotional Faces (AKDEF) is a set of totally 70 pictures of human facial expressions. The set of pictures contains an averaged female and an averaged male displaying 7 different emotional expressions. Each expression is viewed from 5 different angles.
+Source: https://kdef.se/
 ##  Acknowledgements
 This page is made by [Bohuan Qu](https://github.com/Gdnaiteab),[Yize Cai](https://github.com/OskarJoa),[Xizhe Wu](https://github.com/SeverusNg), both of whom are students of Dalian University of Technology.
