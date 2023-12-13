@@ -3,11 +3,46 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 ##  Papers
 
-### 20xx
+### 2019
+
+| Title                                                        |   Venue   |                           Dataset                            |                     PDF                     |                             CODE                             |
+| :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :-----------------------------------------: | :----------------------------------------------------------: |
+| FSGAN: Subject Agnostic Face Swapping and Reenactment        | ICCV 2019 | IJB-C<br>VGGface2<br>CelebA<br>Figaro<br>LFW<br>FaceForensics++ | [PDF](https://arxiv.org/pdf/1908.05932.pdf) |         [CODE](https://github.com/YuvalNirkin/fsgan)         |
+| Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set | CVPR 2019 |               MICC<br>FaceWarehouse<br>BU-3DFE               | [PDF](https://arxiv.org/pdf/1903.08527.pdf) | [CODE](https://github.com/microsoft/Deep3DFaceReconstruction) |
+| FaceForensics++: Learning to Detect Manipulated Facial Images | ICCV 2019 | MICC_F2000<br>Image Forensics Chanllenge<br>Wild Web<br>Realistic Tampering<br>NIST | [PDF](https://arxiv.org/pdf/1901.08971.pdf) |       [CODE](https://github.com/ondyari/FaceForensics)       |
+
+### 2020
+
+| Title                                                        |   Venue   | Dataset  |                     PDF                     |                    CODE                     |
+| :----------------------------------------------------------- | :-------: | :------: | :-----------------------------------------: | :-----------------------------------------: |
+| LUVLi Face Alignment: Estimating Landmarks' Location, Uncertainty, and Visibility Likelihood | CVPR 2020 | MERL-RAV | [PDF](https://arxiv.org/pdf/2004.02980.pdf) | [CODE](https://github.com/abhi1kumar/LUVLi) |
+
+### 2021
+
 | Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
 |:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
-| Compositional Zero-Shot Learning using Multi-Branch Graph Convolution and Cross-layer Knowledge Sharing | PR 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://www.sciencedirect.com/science/article/pii/S0031320323006143) | - |
-| GIPCOL: Graph-Injected Soft Prompting for Compositional Zero-ShotLearning | WACV 2024 | MIT-States & UT-Zappos & C-GQA | [PDF](https://arxiv.org/pdf/2311.05729.pdf) | [CODE](https://github.com/HLR/GIPCOL) |
+| DeepFaceLab: Integrated, flexible and extensible face-swapping framework | PR 2023 | DFDC<br>FaceForensics++ | [PDF](https://arxiv.org/pdf/2005.05535.pdf) | [CODE](https://github.com/iperov/DeepFaceLab) |
+| HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping | IJCAI 2021 | FaceForensics++ | [PDF](https://arxiv.org/pdf/2106.09965v1.pdf) | [CODE](https://github.com/maum-ai/hififace) |
+
+### 2022
+
+| Title                                                        |   Venue   |                          Dataset                           |                      PDF                      |                         CODE                          |
+| :----------------------------------------------------------- | :-------: | :--------------------------------------------------------: | :-------------------------------------------: | :---------------------------------------------------: |
+| MobileFaceSwap: A Lightweight Framework for Video Face Swapping | AAAI 2022 |                      FaceForensics++                       | [PDF](https://arxiv.org/pdf/2201.03808v1.pdf) | [CODE](https://github.com/Seanseattle/MobileFaceSwap) |
+| FaceOff: A Video-to-Video Face Swapping System               | WACV 2023 |                   V2VFaceSwap<br>YouTube                   | [PDF](https://arxiv.org/pdf/2208.09788v1.pdf) |   [CODE](https://github.com/skymanaditya1/FaceOff)    |
+| DiffFace: Diffusion-based Face Swapping with Facial Guidance |     -     |     FFHQ<br>FaceForensics++<br>Metfaces<br>Disney Face     |  [PDF](https://arxiv.org/pdf/2212.13344.pdf)  |      [CODE](https://github.com/hxngiee/DiffFace)      |
+| High-Resolution Image Synthesis with Latent Diffusion Models | CVPR 2022 | CelebAHQ<br>FFHQ<br>ImageNet<br>LSUN<br>OpenImages<br>COCO |  [PDF](https://arxiv.org/pdf/2112.10752.pdf)  |  [CODE](https://github.com/CompVis/latent-diffusion)  |
+
+### 2023
+
+| Title                                                        |   Venue   |                    Dataset                    |                             PDF                              |                             CODE                             |
+| :----------------------------------------------------------- | :-------: | :-------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| StyleIPSB: Identity-Preserving Semantic Basis of StyleGAN for High Fidelity Face Swapping | CVPR 2023 | FFHQ<br>CelebA<br>CelebAHQ<br>FaceForensics++ | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_StyleIPSB_Identity-Preserving_Semantic_Basis_of_StyleGAN_for_High_Fidelity_Face_CVPR_2023_paper.pdf) |         [CODE](https://github.com/a686432/StyleIPSB)         |
+| MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model |     -     |             TikTok <br>TED-talks              |         [PDF](https://arxiv.org/pdf/2311.16498.pdf)          |   [CODE](https://github.com/magic-research/magic-animate)    |
+| Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation |     -     |          UBC fashion video<br>TikTok          |         [PDF](https://arxiv.org/pdf/2311.17117.pdf)          | [CODE](https://github.com/HumanAIGC/AnimateAnyone)<br>暂未发布 |
+| Enhancing Facial Classification and Recognition using 3D Facial Models and Deep Learning |     -     |               KDEF<br>FEI Face                |         [PDF](https://arxiv.org/pdf/2312.05219.pdf)          |                              -                               |
+
+
 
 ##  Projects
 
@@ -29,7 +64,7 @@ Flickr-Faces-HQ (FFHQ) consists of 70,000 high-quality PNG images at 1024×1024 
 
 Source: http:https://github.com/NVlabs/ffhq-dataset
 ### YouTube Faces DB
-ntroduced by Wolf et al. in [Face recognition in unconstrained videos with matched background similarity](https://ieeexplore.ieee.org/document/5995566).
+Introduced by Wolf et al. in [Face recognition in unconstrained videos with matched background similarity](https://ieeexplore.ieee.org/document/5995566).
 
 YouTube Faces DB dataset contains 3,425 videos of 1,595 different people. All the videos were downloaded from YouTube. An average of 2.15 videos are available for each subject. The shortest clip duration is 48 frames, the longest clip is 6,070 frames, and the average length of a video clip is 181.3 frames.
 
@@ -60,4 +95,4 @@ The Averaged Karolinska Directed Emotional Faces (AKDEF) is a set of totally 70 
 
 Source: https://kdef.se/
 ##  Acknowledgements
-This page is made by [Bohuan Qu](https://github.com/Gdnaiteab),[Yize Cai](https://github.com/OskarJoa),[Xizhe Wu](https://github.com/SeverusNg), both of whom are students of Dalian University of Technology.
+This page is made by [Bohuan Qu](https://github.com/Gdnaiteab),[Yize Cai](https://github.com/OskarJoa),[Xizhe Wu](https://github.com/SeverusNg), [Yuxuan He](https://github.com/Herython) both of whom are students of Dalian University of Technology.
