@@ -8,9 +8,9 @@
 | ...        | ...                                            | ...         | ...             | ...         |
 
 #### Ongoing Work
-| Date       | Task Name                                      | Contributor | Status    | Expected Completion | Notes       |
-|------------|------------------------------------------------|-------------|-----------|---------------------|-------------|
-| 2023-12-07 | [Make Project Page] | [Yize Cai] [Yuxuan He] [Xizhe Wu] | [In Progress] | [Ongoing Work] | [Yuxuan He: Paper Section <br> Xizhe Wu: Project Section <br> Yize Cai: Dataset Section]     |
+| Date       | Task Name                                      | Contributor | Status    | Notes       |
+|------------|------------------------------------------------|-------------|-----------|-------------|
+| 2023-12-07 | [Make Project Page] | [Yize Cai] <br> [Yuxuan He] <br> [Xizhe Wu] | [In Progress] | [Ongoing Work] | [Yuxuan He: Paper Section <br> Xizhe Wu: Project Section <br> Yize Cai: Dataset Section]     |
 | ...        | ...                                            | ...         | ...       | ...                 | ...         |
 
 
