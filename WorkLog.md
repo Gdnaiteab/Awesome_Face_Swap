@@ -10,7 +10,7 @@
 #### Ongoing Work
 | Date       | Task Name                                      | Contributor | Status    | Notes       |
 |------------|------------------------------------------------|-------------|-----------|-------------|
-| 2023-12-07 | [Make Project Page] | [Yize Cai] <br> [Yuxuan He] <br> [Xizhe Wu] | [In Progress] | [Ongoing Work] | [Yuxuan He: Paper Section <br> Xizhe Wu: Project Section <br> Yize Cai: Dataset Section]     |
+| 2023-12-07 | [Make Project Page] | [Yize Cai] <br> [Yuxuan He] <br> [Xizhe Wu] | [In Progress] | [Yuxuan He: Paper Section <br> Xizhe Wu: Project Section <br> Yize Cai: Dataset Section]     |
 | ...        | ...                                            | ...         | ...       | ...                 | ...         |
 
 
