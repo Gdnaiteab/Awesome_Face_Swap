@@ -10,7 +10,7 @@
 #### Ongoing Work
 | Date       | Task Name                                      | Contributor | Status    | Expected Completion | Notes       |
 |------------|------------------------------------------------|-------------|-----------|---------------------|-------------|
-| 2023-12-07 | [Organized Papers, Projects, and Datasets from the Technical Route into a Project Page] | [Yize Cai] [Yuxuan He] [Xizhe Wu] | [In Progress] | [Ongoing Work] | [Yuxuan He: Paper Section; Xizhe Wu: Project Section; Yize Cai: Dataset Section]     |
+| 2023-12-07 | [Make Project Page] | [Yize Cai] [Yuxuan He] [Xizhe Wu] | [In Progress] | [Ongoing Work] | [Yuxuan He: Paper Section; Xizhe Wu: Project Section; Yize Cai: Dataset Section]     |
 | ...        | ...                                            | ...         | ...       | ...                 | ...         |
 
 
