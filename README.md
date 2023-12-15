@@ -9,7 +9,6 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 | :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :-----------------------------------------: | :----------------------------------------------------------: |
 | FSGAN: Subject Agnostic Face Swapping and Reenactment        | ICCV 2019 | IJB-C<br>VGGface2<br>CelebA<br>Figaro<br>LFW<br>FaceForensics++ | [PDF](https://arxiv.org/pdf/1908.05932.pdf) |         [CODE](https://github.com/YuvalNirkin/fsgan)         |
 | Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set | CVPR 2019 |               MICC<br>FaceWarehouse<br>BU-3DFE               | [PDF](https://arxiv.org/pdf/1903.08527.pdf) | [CODE](https://github.com/microsoft/Deep3DFaceReconstruction) |
-| FaceForensics++: Learning to Detect Manipulated Facial Images | ICCV 2019 | MICC_F2000<br>Image Forensics Chanllenge<br>Wild Web<br>Realistic Tampering<br>NIST | [PDF](https://arxiv.org/pdf/1901.08971.pdf) |       [CODE](https://github.com/ondyari/FaceForensics)       |
 
 ### 2020
 
@@ -40,9 +39,14 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 | StyleIPSB: Identity-Preserving Semantic Basis of StyleGAN for High Fidelity Face Swapping | CVPR 2023 | FFHQ<br>CelebA<br>CelebAHQ<br>FaceForensics++ | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_StyleIPSB_Identity-Preserving_Semantic_Basis_of_StyleGAN_for_High_Fidelity_Face_CVPR_2023_paper.pdf) |         [CODE](https://github.com/a686432/StyleIPSB)         |
 | MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model |     -     |             TikTok <br>TED-talks              |         [PDF](https://arxiv.org/pdf/2311.16498.pdf)          |   [CODE](https://github.com/magic-research/magic-animate)    |
 | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation |     -     |          UBC fashion video<br>TikTok          |         [PDF](https://arxiv.org/pdf/2311.17117.pdf)          | [CODE](https://github.com/HumanAIGC/AnimateAnyone)<br>暂未发布 |
-| Enhancing Facial Classification and Recognition using 3D Facial Models and Deep Learning |     -     |               KDEF<br>FEI Face                |         [PDF](https://arxiv.org/pdf/2312.05219.pdf)          |                              -                               |
 
+## Related Works
 
+### 
+
+| Title                                                        | Venue |     Dataset      |                     PDF                     | CODE |
+| :----------------------------------------------------------- | :---: | :--------------: | :-----------------------------------------: | :--: |
+| Enhancing Facial Classification and Recognition using 3D Facial Models and Deep Learning |   -   | KDEF<br>FEI Face | [PDF](https://arxiv.org/pdf/2312.05219.pdf) |  -   |
 
 ##  Projects
 
