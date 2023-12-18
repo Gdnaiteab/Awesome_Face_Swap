@@ -1,27 +1,15 @@
-# Every_Face
+# Awesome_Face_Swapping
 Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 ##  Papers
 
-### 2019
+### 2023
 
-| Title                                                        |   Venue   |                           Dataset                            |                     PDF                     |                             CODE                             |
-| :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :-----------------------------------------: | :----------------------------------------------------------: |
-| FSGAN: Subject Agnostic Face Swapping and Reenactment        | ICCV 2019 | IJB-C<br>VGGface2<br>CelebA<br>Figaro<br>LFW<br>FaceForensics++ | [PDF](https://arxiv.org/pdf/1908.05932.pdf) |         [CODE](https://github.com/YuvalNirkin/fsgan)         |
-| Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set | CVPR 2019 |               MICC<br>FaceWarehouse<br>BU-3DFE               | [PDF](https://arxiv.org/pdf/1903.08527.pdf) | [CODE](https://github.com/microsoft/Deep3DFaceReconstruction) |
-
-### 2020
-
-| Title                                                        |   Venue   | Dataset  |                     PDF                     |                    CODE                     |
-| :----------------------------------------------------------- | :-------: | :------: | :-----------------------------------------: | :-----------------------------------------: |
-| LUVLi Face Alignment: Estimating Landmarks' Location, Uncertainty, and Visibility Likelihood | CVPR 2020 | MERL-RAV | [PDF](https://arxiv.org/pdf/2004.02980.pdf) | [CODE](https://github.com/abhi1kumar/LUVLi) |
-
-### 2021
-
-| Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
-|:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
-| DeepFaceLab: Integrated, flexible and extensible face-swapping framework | PR 2023 | DFDC<br>FaceForensics++ | [PDF](https://arxiv.org/pdf/2005.05535.pdf) | [CODE](https://github.com/iperov/DeepFaceLab) |
-| HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping | IJCAI 2021 | FaceForensics++ | [PDF](https://arxiv.org/pdf/2106.09965v1.pdf) | [CODE](https://github.com/maum-ai/hififace) |
+| Title                                                        |   Venue   |                    Dataset                    |                             PDF                              |                             CODE                             |
+| :----------------------------------------------------------- | :-------: | :-------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+| StyleIPSB: Identity-Preserving Semantic Basis of StyleGAN for High Fidelity Face Swapping | CVPR 2023 | FFHQ<br>CelebA<br>CelebAHQ<br>FaceForensics++ | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_StyleIPSB_Identity-Preserving_Semantic_Basis_of_StyleGAN_for_High_Fidelity_Face_CVPR_2023_paper.pdf) |         [CODE](https://github.com/a686432/StyleIPSB)         |
+| MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model |     -     |             TikTok <br>TED-talks              |         [PDF](https://arxiv.org/pdf/2311.16498.pdf)          |   [CODE](https://github.com/magic-research/magic-animate)    |
+| Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation |     -     |          UBC fashion video<br>TikTok          |         [PDF](https://arxiv.org/pdf/2311.17117.pdf)          | [CODE](https://github.com/HumanAIGC/AnimateAnyone)<br>暂未发布 |
 
 ### 2022
 
@@ -32,13 +20,30 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 | DiffFace: Diffusion-based Face Swapping with Facial Guidance |     -     |     FFHQ<br>FaceForensics++<br>Metfaces<br>Disney Face     |  [PDF](https://arxiv.org/pdf/2212.13344.pdf)  |      [CODE](https://github.com/hxngiee/DiffFace)      |
 | High-Resolution Image Synthesis with Latent Diffusion Models | CVPR 2022 | CelebAHQ<br>FFHQ<br>ImageNet<br>LSUN<br>OpenImages<br>COCO |  [PDF](https://arxiv.org/pdf/2112.10752.pdf)  |  [CODE](https://github.com/CompVis/latent-diffusion)  |
 
-### 2023
+### 2021
 
-| Title                                                        |   Venue   |                    Dataset                    |                             PDF                              |                             CODE                             |
-| :----------------------------------------------------------- | :-------: | :-------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| StyleIPSB: Identity-Preserving Semantic Basis of StyleGAN for High Fidelity Face Swapping | CVPR 2023 | FFHQ<br>CelebA<br>CelebAHQ<br>FaceForensics++ | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_StyleIPSB_Identity-Preserving_Semantic_Basis_of_StyleGAN_for_High_Fidelity_Face_CVPR_2023_paper.pdf) |         [CODE](https://github.com/a686432/StyleIPSB)         |
-| MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model |     -     |             TikTok <br>TED-talks              |         [PDF](https://arxiv.org/pdf/2311.16498.pdf)          |   [CODE](https://github.com/magic-research/magic-animate)    |
-| Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation |     -     |          UBC fashion video<br>TikTok          |         [PDF](https://arxiv.org/pdf/2311.17117.pdf)          | [CODE](https://github.com/HumanAIGC/AnimateAnyone)<br>暂未发布 |
+| Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
+|:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
+| DeepFaceLab: Integrated, flexible and extensible face-swapping framework | PR 2023 | DFDC<br>FaceForensics++ | [PDF](https://arxiv.org/pdf/2005.05535.pdf) | [CODE](https://github.com/iperov/DeepFaceLab) |
+| HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping | IJCAI 2021 | FaceForensics++ | [PDF](https://arxiv.org/pdf/2106.09965v1.pdf) | [CODE](https://github.com/maum-ai/hififace) |
+
+### 2020
+
+| Title                                                        |   Venue   | Dataset  |                     PDF                     |                    CODE                     |
+| :----------------------------------------------------------- | :-------: | :------: | :-----------------------------------------: | :-----------------------------------------: |
+| LUVLi Face Alignment: Estimating Landmarks' Location, Uncertainty, and Visibility Likelihood | CVPR 2020 | MERL-RAV | [PDF](https://arxiv.org/pdf/2004.02980.pdf) | [CODE](https://github.com/abhi1kumar/LUVLi) |
+
+
+
+### 2019
+
+| Title                                                        |   Venue   |                           Dataset                            |                     PDF                     |                             CODE                             |
+| :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :-----------------------------------------: | :----------------------------------------------------------: |
+| FSGAN: Subject Agnostic Face Swapping and Reenactment        | ICCV 2019 | IJB-C<br>VGGface2<br>CelebA<br>Figaro<br>LFW<br>FaceForensics++ | [PDF](https://arxiv.org/pdf/1908.05932.pdf) |         [CODE](https://github.com/YuvalNirkin/fsgan)         |
+| Accurate 3D Face Reconstruction with Weakly-Supervised Learning: From Single Image to Image Set | CVPR 2019 |               MICC<br>FaceWarehouse<br>BU-3DFE               | [PDF](https://arxiv.org/pdf/1903.08527.pdf) | [CODE](https://github.com/microsoft/Deep3DFaceReconstruction) |
+
+
+
 
 ## Related Works
 
@@ -99,4 +104,4 @@ The Averaged Karolinska Directed Emotional Faces (AKDEF) is a set of totally 70 
 
 Source: https://kdef.se/
 ##  Acknowledgements
-This page is made by [Bohuan Qu](https://github.com/Gdnaiteab),[Yize Cai](https://github.com/OskarJoa),[Xizhe Wu](https://github.com/SeverusNg), [Yuxuan He](https://github.com/Herython) both of whom are students of Dalian University of Technology.
+This page is made by [Bohuan Qu](https://github.com/Gdnaiteab),[Yize Cai](https://github.com/OskarJoa),[Xizhe Wu](https://github.com/SeverusNg), [Yuxuan He](https://github.com/Herython) all of whom are students of Dalian University of Technology.
