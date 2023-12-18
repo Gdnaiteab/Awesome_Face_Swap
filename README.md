@@ -1,4 +1,4 @@
-# Awesome_Face_Swapping
+# Awesome Face Swapping
 Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 ##  Papers
@@ -9,7 +9,7 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 | :----------------------------------------------------------- | :-------: | :-------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | StyleIPSB: Identity-Preserving Semantic Basis of StyleGAN for High Fidelity Face Swapping | CVPR 2023 | FFHQ<br>CelebA<br>CelebAHQ<br>FaceForensics++ | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_StyleIPSB_Identity-Preserving_Semantic_Basis_of_StyleGAN_for_High_Fidelity_Face_CVPR_2023_paper.pdf) |         [CODE](https://github.com/a686432/StyleIPSB)         |
 | MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model |     -     |             TikTok <br>TED-talks              |         [PDF](https://arxiv.org/pdf/2311.16498.pdf)          |   [CODE](https://github.com/magic-research/magic-animate)    |
-| Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation |     -     |          UBC fashion video<br>TikTok          |         [PDF](https://arxiv.org/pdf/2311.17117.pdf)          | [CODE](https://github.com/HumanAIGC/AnimateAnyone)<br>暂未发布 |
+| Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation |     -     |          UBC fashion video<br>TikTok          |         [PDF](https://arxiv.org/pdf/2311.17117.pdf)          | [CODE](https://github.com/HumanAIGC/AnimateAnyone)<br> |
 
 ### 2022
 
@@ -104,4 +104,4 @@ The Averaged Karolinska Directed Emotional Faces (AKDEF) is a set of totally 70 
 
 Source: https://kdef.se/
 ##  Acknowledgements
-This page is made by [Bohuan Qu](https://github.com/Gdnaiteab),[Yize Cai](https://github.com/OskarJoa),[Xizhe Wu](https://github.com/SeverusNg), [Yuxuan He](https://github.com/Herython) all of them are students of Dalian University of Technology.
+This page is made by [Bohuan Qu](https://github.com/Gdnaiteab),[Yize Cai](https://github.com/OskarJoa),[Xizhe Wu](https://github.com/SeverusNg), [Yuxuan He](https://github.com/Herython) all of whom are students of Dalian University of Technology, China.
