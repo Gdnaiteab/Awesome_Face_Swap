@@ -104,4 +104,4 @@ The Averaged Karolinska Directed Emotional Faces (AKDEF) is a set of totally 70 
 
 Source: https://kdef.se/
 ##  Acknowledgements
-This page is made by [Bohuan Qu](https://github.com/Gdnaiteab),[Yize Cai](https://github.com/OskarJoa),[Xizhe Wu](https://github.com/SeverusNg), [Yuxuan He](https://github.com/Herython) all of whom are students of Dalian University of Technology.
+This page is made by [Bohuan Qu](https://github.com/Gdnaiteab),[Yize Cai](https://github.com/OskarJoa),[Xizhe Wu](https://github.com/SeverusNg), [Yuxuan He](https://github.com/Herython) all of them are students of Dalian University of Technology.
