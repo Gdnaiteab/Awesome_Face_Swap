@@ -52,6 +52,7 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 | Title                                                        | Venue |     Dataset      |                     PDF                     | CODE |
 | :----------------------------------------------------------- | :---: | :--------------: | :-----------------------------------------: | :--: |
 | Enhancing Facial Classification and Recognition using 3D Facial Models and Deep Learning |   -   | KDEF<br>FEI Face | [PDF](https://arxiv.org/pdf/2312.05219.pdf) |  -   |
+| AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning |     -     |          video          |         [PDF](https://arxiv.org/pdf/2307.04725.pdf)     |  - |
 
 ##  Projects
 
