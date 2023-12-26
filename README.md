@@ -10,7 +10,7 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 | StyleIPSB: Identity-Preserving Semantic Basis of StyleGAN for High Fidelity Face Swapping | CVPR 2023 | FFHQ<br>CelebA<br>CelebAHQ<br>FaceForensics++ | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_StyleIPSB_Identity-Preserving_Semantic_Basis_of_StyleGAN_for_High_Fidelity_Face_CVPR_2023_paper.pdf) |         [CODE](https://github.com/a686432/StyleIPSB)         |
 | MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model |     -     |             TikTok <br>TED-talks              |         [PDF](https://arxiv.org/pdf/2311.16498.pdf)          |   [CODE](https://github.com/magic-research/magic-animate)    |
 | Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation |     -     |          UBC fashion video<br>TikTok          |         [PDF](https://arxiv.org/pdf/2311.17117.pdf)          | [CODE](https://github.com/HumanAIGC/AnimateAnyone)<br> |
-| DreaMoving: A Human Video Generation Framework based on Diffusion Models |     -     |             around 1,000 high-quality videos of human dance from the Internet              |         [PDF](https://arxiv.org/pdf/2312.05107.pdf)          |   [CODE](https://github.com/dreamoving/dreamoving-project)    |
+| DreaMoving: A Human Video Generation Framework based on Diffusion Models |     -     |             Around 1,000 high-quality videos of human dance from the Internet              |         [PDF](https://arxiv.org/pdf/2312.05107.pdf)          |   [CODE](https://github.com/dreamoving/dreamoving-project)    |
 
 ### 2022
 
@@ -54,7 +54,7 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 | :----------------------------------------------------------- | :---: | :--------------: | :-----------------------------------------: | :--: |
 | Enhancing Facial Classification and Recognition using 3D Facial Models and Deep Learning |   -   | KDEF<br>FEI Face | [PDF](https://arxiv.org/pdf/2312.05219.pdf) |  -   |
 | AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning |     -     |          video          |         [PDF](https://arxiv.org/pdf/2307.04725.pdf)     |  - |
-| DisCo: Disentangled Control for Realistic Human Dance Generation |   -   | COCO | [PDF](https://arxiv.org/pdf/2307.00040.pdf) |  -   |
+| DisCo: Disentangled Control for Realistic Human Dance Generation |   -   | COCO | [PDF](https://arxiv.org/pdf/2307.00040.pdf) |  [CODE](https://github.com/Wangt-CN/DisCo)   |
 
 ##  Projects
 
