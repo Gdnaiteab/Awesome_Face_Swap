@@ -48,18 +48,19 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 ## Related Works
 
-### 
-
 | Title                                                        | Venue |     Dataset      |                     PDF                     | CODE |
 | :----------------------------------------------------------- | :---: | :--------------: | :-----------------------------------------: | :--: |
+| Effective Whole-body Pose Estimation with Two-stages Distillation | ICCV2023 | **Train:**<br>UBody<br>COCO<br>**Val:**<br>UBody<br>COCO-WholeBody | [PDF](https://arxiv.org/pdf/2307.15880.pdf) | [CODE](https://github.com/IDEA-Research/DWPose) |
+| IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models | - | **Train:**<br>LAION-2B<br>COYO-700M<br>**Val:**<br>COCO2017 | [PDF](https://arxiv.org/pdf/2308.06721.pdf) | [CODE](https://github.com/tencent-ailab/IP-Adapter) |
 | Enhancing Facial Classification and Recognition using 3D Facial Models and Deep Learning |   -   | KDEF<br>FEI Face | [PDF](https://arxiv.org/pdf/2312.05219.pdf) |  -   |
 | AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning |     -     |          video          |         [PDF](https://arxiv.org/pdf/2307.04725.pdf)     |  - |
 | DisCo: Disentangled Control for Realistic Human Dance Generation |   -   | COCO | [PDF](https://arxiv.org/pdf/2307.00040.pdf) |  [CODE](https://github.com/Wangt-CN/DisCo)   |
 
 ##  Projects
 
-| Title | URL|              Introduction              | 
+| Title | URL|              Introduction              |
 |:---------: |:---------:|:---------------------------------:|
+| <center>AnimateAnyone</center> | [Animate Anyone](https://github.com/guoqincode/Open-AnimateAnyone) | Animate Anyone is still closed-source according to official terms, and the URL in this table is one of its implementation by Qin Guo. This project is an image2video approch built upon magic-animate and AnimateDiff, capable of animating arbitrary characters. |
 | <center>DeepFakes</center>|[DeepFakes](https://deepfakesweb.com) | Deepfakes App is closed-source online deepfake software that works in the cloud. Users need to do is upload videos and click a button,and the app will does the rest.|
 | <center>EasyPhoto</center> | [EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) | EasyPhoto is a Webui UI plugin based on stable diffusion for generating AI portraits that can be used to train digital doppelgangers relevant to users.   |
 | <center>FaceSwap</center> | [FaceSwap](https://github.com/deepfakes/faceswap/tree/master) | Faceswap is a GAN-based deepfake open-source tool on github. it provides an easy-to-use GUI interface to facilitate operations such as training and face-swapping. |
