@@ -107,5 +107,11 @@ The Karolinska Directed Emotional Faces (KDEF) is a set of totally 4900 pictures
 The Averaged Karolinska Directed Emotional Faces (AKDEF) is a set of totally 70 pictures of human facial expressions. The set of pictures contains an averaged female and an averaged male displaying 7 different emotional expressions. Each expression is viewed from 5 different angles.
 
 Source: https://kdef.se/
+### Fashion Video Dataset
+Introduced by Zablotskaia et al. in [Fashion Video Dataset](https://arxiv.org/abs/1910.09139).
+
+The Fashion dataset introduced in the BMVC2019 paper “DwNet: Dense warp-based network for pose-guided human video generation”. 
+
+Source: https://vision.cs.ubc.ca/datasets/fashion/
 ##  Acknowledgements
 This page is made by [Bohuan Qu](https://github.com/Gdnaiteab),[Yize Cai](https://github.com/OskarJoa),[Xizhe Wu](https://github.com/SeverusNg), [Yuxuan He](https://github.com/Herython) all of whom are students of Dalian University of Technology, China.
