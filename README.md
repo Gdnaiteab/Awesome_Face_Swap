@@ -61,6 +61,7 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 | Title | URL|              Introduction              |
 |:---------: |:---------:|:---------------------------------:|
+| <center>FaceChain</center> | [FaceChain](https://github.com/modelscope/facechain) | FaceChain is a deep-learning toolchain for generating a Digital-Twin of someone, with a minimum of 1 portrait-photo. |
 | <center>AnimateAnyone</center> | [Animate Anyone](https://github.com/guoqincode/Open-AnimateAnyone) | Animate Anyone is still closed-source according to official terms, and the URL in this table is one of its implementation by Qin Guo. This project is an image2video approch built upon magic-animate and AnimateDiff, capable of animating arbitrary characters. |
 | <center>DeepFakes</center>|[DeepFakes](https://deepfakesweb.com) | Deepfakes App is closed-source online deepfake software that works in the cloud. Users need to do is upload videos and click a button,and the app will does the rest.|
 | <center>EasyPhoto</center> | [EasyPhoto](https://github.com/aigc-apps/sd-webui-EasyPhoto) | EasyPhoto is a Webui UI plugin based on stable diffusion for generating AI portraits that can be used to train digital doppelgangers relevant to users.   |
