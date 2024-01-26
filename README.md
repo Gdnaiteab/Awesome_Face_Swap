@@ -50,7 +50,8 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 | Title                                                        | Venue |     Dataset      |                     PDF                     | CODE |
 | :----------------------------------------------------------- | :---: | :--------------: | :-----------------------------------------: | :--: |
-| Effective Whole-body Pose Estimation with Two-stages Distillation | ICCV2023 | **Train:**<br>UBody<br>COCO<br>**Val:**<br>UBody<br>COCO-WholeBody | [PDF](https://arxiv.org/pdf/2307.15880.pdf) | [CODE](https://github.com/IDEA-Research/DWPose) |
+| Lumiere: A Space-Time Diffusion Model for Video Generation | - | **Train**:<br>videos along with text caption<br>**Val:**<br>a collection of 113 text prompts<br>UCF101 | [PDF]([Lumiere: A Space-Time Diffusion Model for Video Generation (arxiv.org)](https://arxiv.org/pdf/2401.12945.pdf)) |                          -                          |
+|                                                              |       |     UBody<br>COCO<br>**Val:**<br>UBody<br>COCO-WholeBody     | [PDF](https://arxiv.org/pdf/2307.15880.pdf) | [CODE](https://github.com/IDEA-Research/DWPose) |
 | IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models | - | **Train:**<br>LAION-2B<br>COYO-700M<br>**Val:**<br>COCO2017 | [PDF](https://arxiv.org/pdf/2308.06721.pdf) | [CODE](https://github.com/tencent-ailab/IP-Adapter) |
 | Enhancing Facial Classification and Recognition using 3D Facial Models and Deep Learning |   -   | KDEF<br>FEI Face | [PDF](https://arxiv.org/pdf/2312.05219.pdf) |  -   |
 | AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning |     -     |          video          |         [PDF](https://arxiv.org/pdf/2307.04725.pdf)     |  - |
