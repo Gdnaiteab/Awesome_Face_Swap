@@ -119,3 +119,9 @@ The Fashion dataset introduced in the BMVC2019 paper “DwNet: Dense warp-based 
 Source: https://vision.cs.ubc.ca/datasets/fashion/
 ##  Acknowledgements
 This page is made by [Bohuan Qu](https://github.com/Gdnaiteab),[Yize Cai](https://github.com/OskarJoa),[Xizhe Wu](https://github.com/SeverusNg), [Yuxuan He](https://github.com/Herython) all of whom are students of Dalian University of Technology, China.
+
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Gdnaiteab/Awesome_Face_Swap&type=Date)](https://star-history.com/#Gdnaiteab/Awesome_Face_Swap&Date)
+
