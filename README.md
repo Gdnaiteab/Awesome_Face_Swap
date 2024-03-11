@@ -5,12 +5,13 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 ### 2023
 
-| Title                                                        |   Venue   |                    Dataset                    |                             PDF                              |                             CODE                             |
-| :----------------------------------------------------------- | :-------: | :-------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| StyleIPSB: Identity-Preserving Semantic Basis of StyleGAN for High Fidelity Face Swapping | CVPR 2023 | FFHQ<br>CelebA<br>CelebAHQ<br>FaceForensics++ | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_StyleIPSB_Identity-Preserving_Semantic_Basis_of_StyleGAN_for_High_Fidelity_Face_CVPR_2023_paper.pdf) |         [CODE](https://github.com/a686432/StyleIPSB)         |
-| MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model |     -     |             TikTok <br>TED-talks              |         [PDF](https://arxiv.org/pdf/2311.16498.pdf)          |   [CODE](https://github.com/magic-research/magic-animate)    |
-| Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation |     -     |          UBC fashion video<br>TikTok          |         [PDF](https://arxiv.org/pdf/2311.17117.pdf)          | [CODE](https://github.com/HumanAIGC/AnimateAnyone)<br> |
-| DreaMoving: A Human Video Generation Framework based on Diffusion Models |     -     |             Around 1,000 high-quality videos of human dance from the Internet              |         [PDF](https://arxiv.org/pdf/2312.05107.pdf)          |   [CODE](https://github.com/dreamoving/dreamoving-project)    |
+| Title                                                        |   Venue   |                           Dataset                            |                             PDF                              |                           CODE                           |
+| :----------------------------------------------------------- | :-------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------------------------------------------------------: |
+| DiffSwap: High-Fidelity and Controllable Face Swapping via 3D-Aware Masked Diffusion | CVPR2023  |  **Trian：**<br />FFHQ<br />**Eval:**<br />FaceForensics++   | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_DiffSwap_High-Fidelity_and_Controllable_Face_Swapping_via_3D-Aware_Masked_Diffusion_CVPR_2023_paper.pdf) |       [CODE](https://github.com/wl-zhao/DiffSwap)        |
+| StyleIPSB: Identity-Preserving Semantic Basis of StyleGAN for High Fidelity Face Swapping | CVPR 2023 |        FFHQ<br>CelebA<br>CelebAHQ<br>FaceForensics++         | [PDF](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_StyleIPSB_Identity-Preserving_Semantic_Basis_of_StyleGAN_for_High_Fidelity_Face_CVPR_2023_paper.pdf) |       [CODE](https://github.com/a686432/StyleIPSB)       |
+| MagicAnimate: Temporally Consistent Human Image Animation using Diffusion Model |     -     |                     TikTok <br>TED-talks                     |         [PDF](https://arxiv.org/pdf/2311.16498.pdf)          | [CODE](https://github.com/magic-research/magic-animate)  |
+| Animate Anyone: Consistent and Controllable Image-to-Video Synthesis for Character Animation |     -     |                 UBC fashion video<br>TikTok                  |         [PDF](https://arxiv.org/pdf/2311.17117.pdf)          |  [CODE](https://github.com/HumanAIGC/AnimateAnyone)<br>  |
+| DreaMoving: A Human Video Generation Framework based on Diffusion Models |     -     | Around 1,000 high-quality videos of human dance from the Internet |         [PDF](https://arxiv.org/pdf/2312.05107.pdf)          | [CODE](https://github.com/dreamoving/dreamoving-project) |
 
 ### 2022
 
@@ -50,9 +51,9 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 | Title                                                        | Venue |     Dataset      |                     PDF                     | CODE |
 | :----------------------------------------------------------- | :---: | :--------------: | :-----------------------------------------: | :--: |
-| Lumiere: A Space-Time Diffusion Model for Video Generation | - | **Train**:<br>videos along with text caption<br>**Val:**<br>a collection of 113 text prompts<br>UCF101 | [PDF](https://arxiv.org/pdf/2401.12945.pdf) |                          -                          |
-| Effective Whole-body Pose Estimation with Two-stages Distillation | ICCV2023 |     UBody<br>COCO<br>**Val:**<br>UBody<br>COCO-WholeBody     | [PDF](https://arxiv.org/pdf/2307.15880.pdf) | [CODE](https://github.com/IDEA-Research/DWPose) |
-| IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models | - | **Train:**<br>LAION-2B<br>COYO-700M<br>**Val:**<br>COCO2017 | [PDF](https://arxiv.org/pdf/2308.06721.pdf) | [CODE](https://github.com/tencent-ailab/IP-Adapter) |
+| Lumiere: A Space-Time Diffusion Model for Video Generation | - | **Train**:<br>videos along with text caption<br>**Eval:**<br>a collection of 113 text prompts<br>UCF101 | [PDF](https://arxiv.org/pdf/2401.12945.pdf) |                          -                          |
+| Effective Whole-body Pose Estimation with Two-stages Distillation | ICCV2023 |     UBody<br>COCO<br>**Eval:**<br>UBody<br>COCO-WholeBody     | [PDF](https://arxiv.org/pdf/2307.15880.pdf) | [CODE](https://github.com/IDEA-Research/DWPose) |
+| IP-Adapter: Text Compatible Image Prompt Adapter for Text-to-Image Diffusion Models | - | **Train:**<br>LAION-2B<br>COYO-700M<br>**Eval:**<br>COCO2017 | [PDF](https://arxiv.org/pdf/2308.06721.pdf) | [CODE](https://github.com/tencent-ailab/IP-Adapter) |
 | Enhancing Facial Classification and Recognition using 3D Facial Models and Deep Learning |   -   | KDEF<br>FEI Face | [PDF](https://arxiv.org/pdf/2312.05219.pdf) |  -   |
 | AnimateDiff: Animate Your Personalized Text-to-Image Diffusion Models without Specific Tuning |     -     |          video          |         [PDF](https://arxiv.org/pdf/2307.04725.pdf)     |  - |
 | DisCo: Disentangled Control for Realistic Human Dance Generation |   -   | COCO | [PDF](https://arxiv.org/pdf/2307.00040.pdf) |  [CODE](https://github.com/Wangt-CN/DisCo)   |
@@ -61,6 +62,7 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 | Title | URL|              Introduction              |
 |:---------: |:---------:|:---------------------------------:|
+|                                      |                                                              |                                                              |
 | <center>FaceChain</center> | [FaceChain](https://github.com/modelscope/facechain) | FaceChain is a deep-learning toolchain for generating a Digital-Twin of someone, with a minimum of 1 portrait-photo. |
 | <center>AnimateAnyone</center> | [Animate Anyone](https://github.com/HumanAIGC/AnimateAnyone) | The official edition of Animate Anyone. Still **not open source**. |
 | <center>Moore-AnimateAnyone</center> | [Moore-Animate Anyone](https://github.com/MooreThreads/Moore-AnimateAnyone) | **Open Source** and have **Inference Codes**, **Pretrained Weights**, **Training Scripts**.😍<br>This project reproduces Animate Anyone. To align the results demonstrated by the original paper, it adopt various approaches and tricks, which may differ somewhat from the `Animate Anyone` and `Open-Animate Anyone`. |
