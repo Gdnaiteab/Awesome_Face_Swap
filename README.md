@@ -26,6 +26,7 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 | Title                                                                                      |   Venue   |              Dataset              |                                                                              PDF                                                                               |                      CODE                      |
 |:------------------------------------------------------------------------------------------ |:---------:|:---------------------------------:|:--------------------------------------------------------------------------------------------------------------------------------------------------------------:|:----------------------------------------------:|
+| SimSwap: An Efficient Framework For High Fidelity Face Swapping | MM2020 | **Train:**<br />VGGFace2<br />**Eval:**<br />FaceForensics++ | [PDF](https://arxiv.org/pdf/2106.06340v1.pdf) | [CODE](https://github.com/neuralchen/SimSwap) |
 | DeepFaceLab: Integrated, flexible and extensible face-swapping framework | PR 2023 | DFDC<br>FaceForensics++ | [PDF](https://arxiv.org/pdf/2005.05535.pdf) | [CODE](https://github.com/iperov/DeepFaceLab) |
 | HifiFace: 3D Shape and Semantic Prior Guided High Fidelity Face Swapping | IJCAI 2021 | FaceForensics++ | [PDF](https://arxiv.org/pdf/2106.09965v1.pdf) | [CODE](https://github.com/maum-ai/hififace) |
 
