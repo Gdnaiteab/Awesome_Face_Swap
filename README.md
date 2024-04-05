@@ -63,7 +63,7 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 | Title | URL|              Introduction              |
 |:---------: |:---------:|:---------------------------------:|
-|                                      |                                                              |                                                              |
+| <center>Champ</center> | [Champ](https://github.com/fudan-generative-vision/champ) | **Champ** is a groundbreaking framework for realistic human image animation. It leverages 3D parametric models for enhanced control and consistency, ensuring lifelike animations. Ideal for VR, gaming, and digital media, Champ addresses common animation challenges and integrates smoothly into diverse workflows, making it a vital tool for animators and developers. |
 | <center>FaceChain</center> | [FaceChain](https://github.com/modelscope/facechain) | FaceChain is a deep-learning toolchain for generating a Digital-Twin of someone, with a minimum of 1 portrait-photo. |
 | <center>AnimateAnyone</center> | [Animate Anyone](https://github.com/HumanAIGC/AnimateAnyone) | The official edition of Animate Anyone. Still **not open source**. |
 | <center>Moore-AnimateAnyone</center> | [Moore-Animate Anyone](https://github.com/MooreThreads/Moore-AnimateAnyone) | **Open Source** and have **Inference Codes**, **Pretrained Weights**, **Training Scripts**.😍<br>This project reproduces Animate Anyone. To align the results demonstrated by the original paper, it adopt various approaches and tricks, which may differ somewhat from the `Animate Anyone` and `Open-Animate Anyone`. |
