@@ -63,6 +63,7 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 | Title | URL|              Introduction              |
 |:---------: |:---------:|:---------------------------------:|
+| <center>Freshet Video Distance(FVD)</center> | [FVD]([Araachie/frechet_video_distance-pytorch-: Frechet Video Distance metric implemented on PyTorch (github.com)](https://github.com/Araachie/frechet_video_distance-pytorch-)) | **FVD** is a metric for geneative models of video based on FID. |
 | <center>Champ</center> | [Champ](https://github.com/fudan-generative-vision/champ) | **Champ** is a groundbreaking framework for realistic human image animation. It leverages 3D parametric models for enhanced control and consistency, ensuring lifelike animations. Ideal for VR, gaming, and digital media, Champ addresses common animation challenges and integrates smoothly into diverse workflows, making it a vital tool for animators and developers. |
 | <center>FaceChain</center> | [FaceChain](https://github.com/modelscope/facechain) | FaceChain is a deep-learning toolchain for generating a Digital-Twin of someone, with a minimum of 1 portrait-photo. |
 | <center>AnimateAnyone</center> | [Animate Anyone](https://github.com/HumanAIGC/AnimateAnyone) | The official edition of Animate Anyone. Still **not open source**. |
