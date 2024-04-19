@@ -3,6 +3,12 @@ Awesome Faceswap papers&amp;code&amp;datasets&amp;.. collection
 
 ##  Papers
 
+### 2024
+
+| Title                                                        | Venue |                           Dataset                            |                     PDF                     |                       CODE                        |
+| :----------------------------------------------------------- | :---: | :----------------------------------------------------------: | :-----------------------------------------: | :-----------------------------------------------: |
+| AniPortrait: Audio-Driven Synthesis of Photorealistic Portrait Animation |   -   | **Train：**<br />HDTF(for Audio2Pose)<br />internal Dataset(for Audio2Mesh)<br />VFHQ, CelebVHQ(for Lmk2Video) | [PDF](https://arxiv.org/pdf/2403.17694.pdf) | [CODE](https://github.com/Zejun-Yang/AniPortrait) |
+
 ### 2023
 
 | Title                                                        |   Venue   |                           Dataset                            |                             PDF                              |                           CODE                           |
